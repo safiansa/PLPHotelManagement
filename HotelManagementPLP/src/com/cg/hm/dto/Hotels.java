@@ -52,27 +52,6 @@ public class Hotels {
 		super();
 	}
 
-	public Hotels(int hotelId, String city, String hotelName, String address,
-			String description, int avgRatePerNight, String phone1,
-			String phone2, int rating, String fax, String email) {
-		super();
-		this.hotelId = hotelId;
-		this.city = city;
-		this.hotelName = hotelName;
-		this.address = address;
-		this.description = description;
-		this.avgRatePerNight = avgRatePerNight;
-		this.phone1 = phone1;
-		this.phone2 = phone2;
-		this.rating = rating;
-		this.fax = fax;
-		this.email = email;
-	}
-
-
-
-
-
 
 
 	public String getEmail() {

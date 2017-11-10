@@ -2,11 +2,6 @@ package com.cg.hm.exception;
 
 public class HotelManagementException extends Exception {
 
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
-
 	public HotelManagementException() {
 		// TODO Auto-generated constructor stub
 	}

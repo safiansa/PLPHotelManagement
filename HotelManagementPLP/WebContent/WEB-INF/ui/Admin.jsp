@@ -30,17 +30,17 @@
 			<tr>
 				<td><a href="deleteHotel.htm">delete</a></td>
 				<td><a href="deleteRoom.htm">delete</a></td>
-				<td><a href="">View Booking Details of Specific Hotel </a></td>
+				<td><a href="viewBookingsOfHotel.htm?hotelId=0">View Booking Details of Specific Hotel </a></td>
 			</tr>
 			<tr>
 				<td><a href="modifyHotel.htm?hotelId=0">update</a></td>
 				<td><a href="modifyRoom.htm?roomId=0">update</a></td>
-				<td><a href="">View Guest List of Specific Hotel</a></td>
+				<td><a href="viewGuestList.htm?hotelId=0">View Guest List of Specific Hotel</a></td>
 			</tr>
 			<tr>
 				<td></td>
 				<td></td>
-				<td><a href="">View Booking Details for Specified Date</a></td>
+				<td><a href="viewBookingsOnDate.htm">View Booking Details for Specified Date</a></td>
 			</tr>
 
 		</table>
