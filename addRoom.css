@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #FFD9D9;
+}
+h1{
+    text-align: center;
+    background-color: #FDB5B5;
+    font-family: "Tangerine","Times New Roman";
+    font-size: 50px;
+    color: darkgrey;   
+}
+h2{
+    text-align: center;
+    background-color: #FAD1D0;
+    font-family: "Tangerine","Times New Roman";
+    font-size: 30px;
+    color: black; 
+}
+h3{
+    color: cornflowerblue;
+    text-align: center;
+    
+     position: absolute;
+    left: 200px;
+    right: 300px;
+    top: 180px;
+}
+h4{
+    color: black;
+    text-align: left;
+    
+     position: absolute;
+    left: 10px;
+    right: 300px;
+    top: 210px;
+}
+table{
+     border: 2px;
+    border-color: dimgray;
+}
+
+#table1{
+    font-family: "Tangerine","Times New Roman";
+    font-size: 23px;
+    color: darkgrey; 
+    background-color: #D9FDB5;
+    
+   
+     position: absolute;
+     left: px;
+    right: px;
+    top: 230px;
+}
+th{
+    background-color: #5CF12C;
+}
+#table2{
+     font-family: "Tangerine","Times New Roman";
+    font-size: 23px;
+    color: darkgrey; 
+    background-color: #D9FDB5;
+    
+    align-content: center;
+     position: absolute;
+     left: 400px;
+    right: px;
+    top: 340px;
+}
+button{
+    width: 100%;
+    padding: 17px 0px;
+    box-sizing: border-box;
+    border: 2px solid #FFD9D9;
+    border-radius: 12px;
+    
+    text-align: center;
+    font-size: 25px;
+    position: absolute;
+    
+    left: 0px;
+    right: 350px;
+    top: 300px;
+}
+input[type=submit] {
+    width: 100%;
+    padding: 5px 20px;
+    box-sizing: border-box;
+    border: 2px solid #FFD9D9;
+    border-radius: 8px;
+    
+    text-align: center;
+    font-size: 15px;
+}
+#save{
+     position: absolute;
+    
+    left: 400px;
+    right:470px;
+    top: 150px;
+    
+    box-sizing: border-box;
+    border: 2px solid #FFD9D9;
+    border-radius: 20px;
+}
+a:link, a:visited {
+    background-color: #D9FDB5;
+    color: darkgrey;
+    padding: 14px 25px;
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+    display: inline-block;
+    height: 50px;
+    width: 200px; 
+}
+a:hover, a:active {
+    background-color: #DA0505;
+    color: white;
+}
+#logout{
+   text-align: right;
+    font-family: "Tangerine","Times New Roman";
+    font-size: 60px;
+    color: darkgrey; 
+    
+    text-align: center;
+     position: absolute;
+     left: px;
+    right: 10px;
+    bottom:30px; 
+}
+#addr{
+    text-align: left;
+     position: absolute;
+     left: 400px;
+    right: px;
+    top: 300px;
+}
